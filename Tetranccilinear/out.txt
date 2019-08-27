@@ -1,0 +1,80 @@
+For  5 
+The amount is 2
+407seconds
+
+For  10 
+The amount is 56
+40seconds
+
+For  15 
+The amount is 1490
+51seconds
+
+For  20 
+The amount is 39648
+56seconds
+
+For  25 
+The amount is 1055026
+52seconds
+
+For  30 
+The amount is 28074040
+70seconds
+
+For  35 
+The amount is 747044834
+74seconds
+
+For  40 
+The amount is 19878720128
+73seconds
+
+For  45 
+The amount is 528968939938
+81seconds
+
+For  50 
+The amount is 14075762303480
+128seconds
+
+For  55 
+The amount is 374553342295090
+77seconds
+
+For  60 
+The amount is 9966792788887776
+72seconds
+
+For  65 
+The amount is 265214449530564434
+54seconds
+
+For  70 
+The amount is 7057305768232953720
+92seconds
+
+For  75 
+The amount is 187793556476621449410
+67seconds
+
+For  80 
+The amount is 4997150614173857218560
+93seconds
+
+For  85 
+The amount is 132973221921205159159874
+80seconds
+
+For  90 
+The amount is 3538391998422743815303864
+73seconds
+
+For  95 
+The amount is 94155934206972141509219218
+70seconds
+
+For  100 
+The amount is 2505471397838180985096739296
+90seconds
+
