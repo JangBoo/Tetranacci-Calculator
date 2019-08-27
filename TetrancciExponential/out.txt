@@ -1,0 +1,29 @@
+For  5 
+The amount is 2
+816seconds
+
+For  10 
+The amount is 56
+98seconds
+
+For  15 
+The amount is 1490
+690seconds
+
+For  20 
+The amount is 39648
+5326seconds
+
+For  25 
+The amount is 1055026
+77447seconds
+
+For  30 
+The amount is 28074040
+984596seconds
+
+For  35 
+The amount is 747044834
+19140266seconds
+
+For  40 
